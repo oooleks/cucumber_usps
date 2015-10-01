@@ -22,4 +22,4 @@ Feature: Zip code finder
     Examples: addresses
     |address                           |city      |state                    |
     |1600 Pennsylvania Avenue Northwest|Washington|DC - District of Columbia|
-    |1587 Parkview Avenue              |San Jose  |CA - California          |
+    |1586 Parkview Avenue              |San Jose  |CA - California          |
