@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c249b5b6-8032-497f-8917-bc98ab8710e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cucumber.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/zip_code_finder.feature" afterPath="$PROJECT_DIR$/features/zip_code_finder.feature" />
-    </list>
+    <list default="true" id="c249b5b6-8032-497f-8917-bc98ab8710e8" name="Default" comment="" />
     <ignored path="cucumber_usps.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -99,8 +95,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="135" />
-    <option name="y" value="176" />
+    <option name="x" value="190" />
+    <option name="y" value="189" />
     <option name="width" value="1197" />
     <option name="height" value="785" />
   </component>
@@ -338,8 +334,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="176" width="1197" height="785" extended-state="0" />
-    <editor active="true" />
+    <frame x="190" y="189" width="1197" height="785" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
