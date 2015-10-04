@@ -38,6 +38,7 @@ end
 Then(/^I see results on Look up a zip code page$/) do
   cell_result = @browser.find_element(:id, "result-list").find_elements(:tag_name, "li")
   expect(cell_result.size).to be > 0
+
   cell_result.each do |element|
     expect(element.find_element(:css, "span.zip").text).to be_truthy
   end

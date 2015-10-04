@@ -1,1 +1,3 @@
 zip_code: --tags @zip_code --format html --out report.html --format pretty
+login_tests: --tags @login --format html --out report.html --format pretty
+tracking_tests: --tags @tracking --format html --out report.html --format pretty
