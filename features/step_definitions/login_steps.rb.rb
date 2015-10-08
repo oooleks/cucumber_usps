@@ -24,10 +24,10 @@ Then(/^I will see password required error message$/) do
   expect(@browser.find_element(:id, "error-invalid-password").text).to be == "A password is required."
 end
 
-Then(/^I will see Username lenght error message$/) do
+Then(/^I will see Username length error message$/) do
   expect(@browser.find_element(:id, "error-min-username").text).to be == "Your Username must be at least 6 characters long."
 end
 
-Then(/^I will see Password lenght error message$/) do
+Then(/^I will see Password length error message$/) do
   expect(@browser.find_element(:id, "error-min-password").text).to be == "Your Password must be at least 10 characters long."
 end
